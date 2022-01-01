@@ -6,10 +6,11 @@
 [![Github Badge](https://img.shields.io/badge/-duclos--cavalcanti-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/duclos-cavalcanti/)](https://github.com/duclos-cavalcanti/)
 [![Leetcode Badge](https://img.shields.io/badge/-duclos--cavalcanti-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/duclos-cavalcanti/)](https://leetcode.com/duclos-cavalcanti/)
 
-### Technical Skills:
+### Languages:
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=A8B9CC)
 
-
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+### Tools:
 
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
