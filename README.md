@@ -7,20 +7,19 @@
 [![Leetcode Badge](https://img.shields.io/badge/-duclos--cavalcanti-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/duclos-cavalcanti/)](https://leetcode.com/duclos-cavalcanti/)
 
 ### Languages:
-![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=A8B9CC)
-![](https://img.shields.io/badge/Code-Cpp-informational?style=flat-square&logo=cpp&logoColor=00599C)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=3776AB)
-![](https://img.shields.io/badge/Code-Bash-informational?style=flat-square&logo=bash&logoColor=A8B9CC)
+<p>
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-Cpp-00599C?style=flat-square&logo=cpp&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Vhdl" src="https://img.shields.io/badge/-VHDL-5c6370?style=flat-square&logo=vhdl&logoColor=white" />
+</p>
 
 ### Tools:
 
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
-  <img alt="Tools" src="https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)" />
   <img alt="CMake" src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-Cpp-00599C?style=flat-square&logo=cpp&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Vhdl" src="https://img.shields.io/badge/-VHDL-5c6370?style=flat-square&logo=vhdl&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Jenkins CI" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" />
