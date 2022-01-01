@@ -4,7 +4,8 @@
 [![Github Badge](https://img.shields.io/badge/-duclos--cavalcanti-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/duclos-cavalcanti/)](https://github.com/duclos-cavalcanti/)
 [![Leetcode Badge](https://img.shields.io/badge/-duclos--cavalcanti-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/duclos-cavalcanti/)](https://leetcode.com/duclos-cavalcanti/)
 
-<h3>Technologies I've worked with:</h3>
+### Technical Skills:
+
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
   <img alt="CMake" src="https://img.shields.io/badge/-CMake-EE0000?style=flat-square&logo=cmake&logoColor=white" />
@@ -18,6 +19,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 </p>
 
+### Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duclos-cavalcanti&layout=compact)](https://github.com/duclos-cavalcanti/)
 
 <!--
