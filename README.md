@@ -7,8 +7,10 @@
 [![Leetcode Badge](https://img.shields.io/badge/-duclos--cavalcanti-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/duclos-cavalcanti/)](https://leetcode.com/duclos-cavalcanti/)
 
 ### Languages:
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=A8B9CC)
+![](https://img.shields.io/badge/Code-Cpp-informational?style=flat-square&logo=cpp&logoColor=00599C)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=3776AB)
+![](https://img.shields.io/badge/Code-Bash-informational?style=flat-square&logo=bash&logoColor=A8B9CC)
 
 ### Tools:
 
