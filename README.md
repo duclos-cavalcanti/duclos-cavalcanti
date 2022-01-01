@@ -1,10 +1,10 @@
 ## Hi there!
 
-[![Linkedin Badge](https://img.shields.io/badge/-daniel\-duclos\-cavalcanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-duclos-cavalcanti/)](https://www.linkedin.com/in/daniel-duclos-cavalcanti/)
-[![Github Badge](https://img.shields.io/badge/-duclos\-cavalcanti-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/manparvesh/)](https://github.com/duclos-cavalcanti/)
-[![Leetcode Badge](https://img.shields.io/badge/-duclos\-cavalcanti-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/duclos-cavalcanti/)](https://leetcode.com/duclos-cavalcanti/)
+[![Linkedin Badge](https://img.shields.io/badge/-daniel-duclos-cavalcanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-duclos-cavalcanti/)](https://www.linkedin.com/in/daniel-duclos-cavalcanti/)
+[![Github Badge](https://img.shields.io/badge/-ducloscavalcanti-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/duclos-cavalcanti/)](https://github.com/duclos-cavalcanti/)
+[![Leetcode Badge](https://img.shields.io/badge/-duclos-cavalcanti-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/duclos-cavalcanti/)](https://leetcode.com/duclos-cavalcanti/)
 
-<h3>Technologies I like and work on</h3>
+<h3>Technologies I've worked with:</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white" />
