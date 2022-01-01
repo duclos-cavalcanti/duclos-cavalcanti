@@ -8,6 +8,8 @@
 
 ### Technical Skills:
 
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
   <img alt="Tools" src="https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)" />
