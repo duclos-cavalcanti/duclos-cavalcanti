@@ -13,9 +13,10 @@
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU Bash&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Vhdl" src="https://img.shields.io/badge/-VHDL-5c6370?style=flat-square&logo=Arduino&logoColor=white" />
+  <img alt="Tcl" src="https://img.shields.io/badge/-Tcl-E01F27?style=flat-square&logo=Xilinx&logoColor=white" />
 </p>
 
-### Tools:
+### Tools I've Used:
 
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
