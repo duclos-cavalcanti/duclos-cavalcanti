@@ -21,6 +21,8 @@
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
   <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-1793D1?style=flat-square&logo=Arch Linux&logoColor=black" />
+  <img alt="FreeRTOS" src="https://img.shields.io/badge/-FreeRTOS-C01818?style=flat-square&logo=rtos&logoColor=black" />
+  <img alt="Contiki NG" src="https://img.shields.io/badge/-Contiki OS-C01818?style=flat-square&logo=contiki&logoColor=black" />
   <img alt="CMake" src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Jenkins CI" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" />
