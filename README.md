@@ -33,5 +33,6 @@
 </p>
 
 ### Github:
+[![Github stats](https://github-readme-stats.vercel.app/api?username=duclos-cavalcanti)](https://github.com/duclos-cavalcanti/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duclos-cavalcanti&layout=compact)](https://github.com/duclos-cavalcanti/)
 
