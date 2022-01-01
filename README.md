@@ -30,10 +30,6 @@
   <img alt="GoogleTest" src="https://img.shields.io/badge/-GoogleTest-4285F4?style=flat-square&logo=Google&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-</p>
-
-### Operating Systems:
-<p>
   <img alt="FreeRTOS" src="https://img.shields.io/badge/-FreeRTOS-C01818?style=flat-square&logo=rtos&logoColor=black" />
   <img alt="Contiki NG" src="https://img.shields.io/badge/-Contiki OS-C01818?style=flat-square&logo=contiki&logoColor=black" />
 </p>
