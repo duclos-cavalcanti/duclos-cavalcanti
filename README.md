@@ -19,8 +19,6 @@
 ### Tools I've Used:
 
 <p>
-  <img alt="FreeRTOS" src="https://img.shields.io/badge/-FreeRTOS-C01818?style=flat-square&logo=rtos&logoColor=black" />
-  <img alt="Contiki NG" src="https://img.shields.io/badge/-Contiki OS-C01818?style=flat-square&logo=contiki&logoColor=black" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
   <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-1793D1?style=flat-square&logo=Arch Linux&logoColor=black" />
   <img alt="CMake" src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
@@ -28,11 +26,19 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Jenkins CI" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" />
   <img alt="Travis CI" src="https://img.shields.io/badge/-Travis CI-3EAAAF?style=flat-square&logo=travis&logoColor=white" />
+  <img alt="Pytest" src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=Pytest&logoColor=white" />
+  <img alt="GoogleTest" src="https://img.shields.io/badge/-GoogleTest-4285F4?style=flat-square&logo=Google&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 </p>
 
+### Operating Systems:
+<p>
+  <img alt="FreeRTOS" src="https://img.shields.io/badge/-FreeRTOS-C01818?style=flat-square&logo=rtos&logoColor=black" />
+  <img alt="Contiki NG" src="https://img.shields.io/badge/-Contiki OS-C01818?style=flat-square&logo=contiki&logoColor=black" />
+</p>
+
 ### Github:
-[![Github stats](https://github-readme-stats.vercel.app/api?username=duclos-cavalcanti)](https://github.com/duclos-cavalcanti/)
+<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=duclos-cavalcanti)](https://github.com/duclos-cavalcanti/) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duclos-cavalcanti&layout=compact)](https://github.com/duclos-cavalcanti/)
 
