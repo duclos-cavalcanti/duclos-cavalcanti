@@ -1,5 +1,7 @@
 ## Hi there!
 
+### Links:
+
 [![Linkedin Badge](https://img.shields.io/badge/-daniel--duclos--cavalcanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-duclos-cavalcanti/)](https://www.linkedin.com/in/daniel-duclos-cavalcanti/)
 [![Github Badge](https://img.shields.io/badge/-duclos--cavalcanti-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/duclos-cavalcanti/)](https://github.com/duclos-cavalcanti/)
 [![Leetcode Badge](https://img.shields.io/badge/-duclos--cavalcanti-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/duclos-cavalcanti/)](https://leetcode.com/duclos-cavalcanti/)
@@ -8,9 +10,9 @@
 
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
-  <img alt="CMake" src="https://img.shields.io/badge/-CMake-EE0000?style=flat-square&logo=cmake&logoColor=white" />
+  <img alt="CMake" src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-46a2f1?style=flat-square&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-Cpp-46a2f1?style=flat-square&logo=cpp&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-Cpp-EE0000?style=flat-square&logo=cpp&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Vhdl" src="https://img.shields.io/badge/-VHDL-5c6370?style=flat-square&logo=vhdl&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -20,20 +22,6 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
 </p>
 
-### Github Stats:
+### Github:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duclos-cavalcanti&layout=compact)](https://github.com/duclos-cavalcanti/)
 
-<!--
-**duclos-cavalcanti/duclos-cavalcanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
