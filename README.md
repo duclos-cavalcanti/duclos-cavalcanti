@@ -1,7 +1,5 @@
 ## Hi there!
 
-### Links:
-
 [![Linkedin Badge](https://img.shields.io/badge/-daniel--duclos--cavalcanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-duclos-cavalcanti/)](https://www.linkedin.com/in/daniel-duclos-cavalcanti/)
 [![Github Badge](https://img.shields.io/badge/-duclos--cavalcanti-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/duclos-cavalcanti/)](https://github.com/duclos-cavalcanti/)
 [![Leetcode Badge](https://img.shields.io/badge/-duclos--cavalcanti-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/duclos-cavalcanti/)](https://leetcode.com/duclos-cavalcanti/)
