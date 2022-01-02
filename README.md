@@ -34,7 +34,7 @@
   <img alt="Contiki NG" src="https://img.shields.io/badge/-Contiki OS-C01818?style=flat-square&logo=contiki&logoColor=black" />
 </p>
 
-### Github:
+<!-- ### Github: -->
 <!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=duclos-cavalcanti)](https://github.com/duclos-cavalcanti/) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duclos-cavalcanti&layout=compact)](https://github.com/duclos-cavalcanti/)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duclos-cavalcanti&layout=compact)](https://github.com/duclos-cavalcanti/) -->
 
