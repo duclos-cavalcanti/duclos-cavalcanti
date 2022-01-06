@@ -24,6 +24,7 @@
   <img alt="Make" src="https://img.shields.io/badge/-Makefile-A42E2B?style=flat-square&logo=GNU&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Jenkins CI" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white" />
   <img alt="Travis CI" src="https://img.shields.io/badge/-Travis CI-3EAAAF?style=flat-square&logo=travis&logoColor=white" />
   <img alt="Pytest" src="https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=Pytest&logoColor=white" />
   <img alt="GoogleTest" src="https://img.shields.io/badge/-GoogleTest-4285F4?style=flat-square&logo=Google&logoColor=white" />
