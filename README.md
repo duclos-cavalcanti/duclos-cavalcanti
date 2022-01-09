@@ -9,8 +9,8 @@
 
 Welcome, glad to see you came across my Github Profile. Please, feel free to browse
 through my projects or even reach out to me through the links listed above. I'm a Computer
-Engineer by [Technical University of Munich](https://www.tum.de/), where I also currently
-am pursuing my Masters at in Electrical and Computer Engineering.
+Engineer by the [Technical University of Munich](https://www.tum.de/), where I also currently
+am pursuing my ECE Masters at.
 
 <!-- ### Technologies -->
 <!-- <table> -->
