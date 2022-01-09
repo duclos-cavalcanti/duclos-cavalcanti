@@ -8,10 +8,10 @@
 - [![Leetcode Badge](https://img.shields.io/badge/-duclos--cavalcanti-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/duclos-cavalcanti/)](https://leetcode.com/duclos-cavalcanti/)
 
 Welcome, glad to see you came across my Github Profile. Please, feel free to browse
-through my projects. Reach out to me through the links listed above. 
+through my projects or reach out to me through the links listed above. 
 
-I'm a Computer Engineer by the Technical University of Munich, where I also currently
-am pursuing my ECE Masters degree at.
+I'm a Computer Engineer by the Technical University of Munich, where I am also currently
+pursuing my ECE Masters degree.
 
 <!-- ### Technologies -->
 <!-- <table> -->
