@@ -6,9 +6,10 @@
 - [![Linkedin Badge](https://img.shields.io/badge/-daniel--duclos--cavalcanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-duclos-cavalcanti/)](https://www.linkedin.com/in/daniel-duclos-cavalcanti/)
 - [![Gmail Badge](https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://leetcode.com/duclos-cavalcanti/)](mailto:daniel.duclos.cavalcanti@gmail.com)
 - [![Leetcode Badge](https://img.shields.io/badge/-duclos--cavalcanti-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/duclos-cavalcanti/)](https://leetcode.com/duclos-cavalcanti/)
+- <a href="https://www.buymeacoffee.com/danielduclos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="Buy Me A Coffee" style="height: 24px !important;" ></a>
 
 Welcome, glad to see you came across my Github Profile. Please, feel free to browse
-through my projects or reach out to me through the links listed above. 
+through my projects or reach out to me through the links listed above.
 
 I'm a Computer Engineer by the Technical University of Munich, where I am also currently
 pursuing my ECE Masters degree.
