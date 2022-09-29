@@ -5,7 +5,7 @@
 - [![Website Badge](https://img.shields.io/badge/-ducloscavalcanti.com-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://ducloscavalcanti.com/)](https://ducloscavalcanti.com/)
 - [![Linkedin Badge](https://img.shields.io/badge/-daniel--duclos--cavalcanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-duclos-cavalcanti/)](https://www.linkedin.com/in/daniel-duclos-cavalcanti/)
 - [![Gmail Badge](https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://leetcode.com/duclos-cavalcanti/)](mailto:daniel.duclos.cavalcanti@gmail.com)
-- [![Leetcode Badge](https://img.shields.io/badge/-duclos--cavalcanti-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/duclos-cavalcanti/)](https://leetcode.com/duclos-cavalcanti/)
+- [![Leetcode Badge](https://img.shields.io/badge/-duclos--cavalcanti-F89F1B?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/duclos-cavalcanti/)](https://github.com/duclos-cavalcanti/leetcode)
 <!-- - <a href="https://www.buymeacoffee.com/danielduclos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="Buy Me A Coffee" style="height: 22px !important;" ></a> -->
 <!-- - <a href="https://ko-fi.com/duclos" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" style="height: 30px !important;" ></a> -->
 
