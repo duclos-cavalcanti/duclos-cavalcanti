@@ -10,4 +10,4 @@ through the information below.
 
 #### Contact
 + Website: [www.duclos.dev](www.duclos.dev)
-+ Email: [daniel.duclos.cavalcanti@gmail.com](mailto:daniel.duclos.cavalcanti@gmail.com)
++ Email: [me@duclos.dev](mailto:me@duclos.dev)
