@@ -7,5 +7,5 @@ pursuing my ECE Masters degree. Please, feel free to browse through my projects 
 reach out to me directly.
 
 #### Contact
-+ Website: [www.duclos.dev](www.duclos.dev)
++ Website: [www.duclos.dev](https://www.duclos.dev)
 + Email: [me@duclos.dev](mailto:me@duclos.dev)
