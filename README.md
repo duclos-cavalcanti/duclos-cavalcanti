@@ -9,6 +9,7 @@ reach out to me directly.
 #### Contact
 + Website: [www.duclos.dev](https://www.duclos.dev)
 + Email: [me@duclos.dev](mailto:me@duclos.dev)
++ HuggingFace: [https://huggingface.co/duclos-cavalcanti](https://huggingface.co/duclos-cavalcanti)
 
 --- 
 
