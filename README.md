@@ -2,8 +2,9 @@
 
 Welcome, glad to see you came across my Github Profile. 
 
-I'm a Computer Engineer by the Technical University of Munich and am finishing up a M.Sc. degree 
-at NYU. Please, feel free to browse through my projects or reach out to me directly.
+I'm a Computer and Electrical Engineer by the Technical University of Munich, where I also am pursuing a M.Sc. in the 
+same degree. Currently, at the very end of that program, I am finishing up the master thesis at NYU in New York.
+Please, feel free to browse through my projects or reach out to me directly.
 
 #### Contact
 + Website: [www.duclos.dev](https://www.duclos.dev)
