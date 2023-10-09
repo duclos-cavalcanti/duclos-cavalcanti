@@ -2,15 +2,14 @@
 
 Welcome, glad to see you came across my Github Profile. 
 
-I'm a Computer and Electrical Engineer by the Technical University of Munich. Currently, finishing 
- a M.Sc. at NYU, mostly looking for master thesis work opportunities.
+I'm a Computer and Electrical Engineer by the Technical University of Munich. Currently, finishing a M.Sc. degree at NYU.
 
 Please, feel free to browse through my projects or reach out to me directly.
 
 #### Contact
 + Website: [www.duclos.dev](https://www.duclos.dev)
 + Email: [me@duclos.dev](mailto:me@duclos.dev)
-+ HuggingFace: [https://huggingface.co/duclos-cavalcanti](https://huggingface.co/duclos-cavalcanti)
+<!-- + HuggingFace: [https://huggingface.co/duclos-cavalcanti](https://huggingface.co/duclos-cavalcanti) -->
 
 --- 
 
