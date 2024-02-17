@@ -20,8 +20,7 @@ Please, feel free to browse through my projects or reach out to me directly.
   <a href="https://ko-fi.com/duclos">
     <img src="https://img.shields.io/badge/ko--fi-red.svg">
   </a>
-  
   <a href="https://www.buymeacoffee.com/danielduclos">
-    <img src="https://img.shields.io/badge/donation-buy--me--coffee-green.svg">
+    <img src="https://img.shields.io/badge/buy--me--coffee-green.svg">
   </a>
 </p>
