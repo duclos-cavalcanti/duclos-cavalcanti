@@ -2,8 +2,8 @@
 
 Welcome, glad to see you came across my Github Profile. 
 
-I'm a Computer and Electrical Engineer from the Technical University of Munich. Currently, finishing an [M.Sc. Degree](https://github.com/duclos-cavalcanti/master-arbeit) through an exchange at the [New York University](https://www.nyu.edu/). 
-I'm collaborating with [Dr.Sivaraman](https://anirudhsk.github.io/) and his research team at [Systems@NYU](https://news.cs.nyu.edu/) on a project around high-performance multicasting on the cloud, aimed at aiding the potential transition of modern financial exchange's current infrastructure to the cloud.
+I'm a Computer and Electrical Engineer from the Technical University of Munich. Currently, finishing an [M.Sc. Degree](https://github.com/duclos-cavalcanti/master-arbeit) through an visiting graduate student program at the [New York University](https://www.nyu.edu/). 
+I'm collaborating with [Dr.Sivaraman](https://anirudhsk.github.io/) and his research team at [Systems@NYU](https://news.cs.nyu.edu/) on a project around high-performance and scalable multicasting financial exchange's in the cloud.
 
 Please, feel free to browse through my projects or reach out to me directly.
 
