@@ -2,8 +2,12 @@
 
 Welcome, glad to see you came across my Github Profile. 
 
-I'm a Computer and Electrical Engineer from the Technical University of Munich, now living in New York. Currently, finishing the last credit for my _M.Sc. Degree_, also from TUM, via a collaboration with with [Dr.Sivaraman](https://anirudhsk.github.io/) and his research team at [Systems@NYU](https://news.cs.nyu.edu/).
-The project revolves around [Jasper](https://arxiv.org/abs/2402.09527): a Scalable and Fair Multicast Solution for Financial Exchanges in the Cloud. Beyond aiding in the development of Jasper, my thesis aims to construct a performant heuristic to re-configure Jasper's multicast-tree based on present cloud conditions, that vary highly throughout time.
+I'm a Computer Engineer living in New York with a B.Sc. and a M.Sc. from the Technical University of Munich, in Germany. 
+Currently, collaborating on research with [Dr.Sivaraman](https://anirudhsk.github.io/) and his research team 
+at [Systems@NYU](https://news.cs.nyu.edu/). 
+
+The project revolves around [Jasper](https://arxiv.org/abs/2402.09527): A Scalable Design and Implementation of a Financial Exchange in the Cloud. Beyond co-authoring and aiding in the development of Jasper, my thesis constructed a performant heuristic to 
+select VMs based on present cloud conditions to improve Jasper's overall performance.
 
 Please, feel free to browse through my repositories or reach out to me directly.
 
