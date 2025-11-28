@@ -1,6 +1,6 @@
 ## Daniel Duclos-Cavalcanti
 
-Welcome, glad to see you came across my Github Profile. 
+Welcome.
 
 I'm a computer engineer living in New York with a bachelors and masters from the Technical University of Munich. 
 
