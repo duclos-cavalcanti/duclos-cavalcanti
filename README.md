@@ -3,10 +3,11 @@
 Welcome.
 
 I'm a electrical and computer engineer living in New York with a bachelors and masters from the Technical University of Munich. 
-
-Today, I work as a SWE @ripple building custody infrastructure in Rust.
+Today, I work as a SWE @Ripple building blockchain custody infrastructure in Rust.
 However, I have also collaborated on research with [Dr.Sivaraman](https://anirudhsk.github.io/) and [Dr. Haseeb Ashfaq](https://haseeblums.github.io/) from [Systems@NYU](https://news.cs.nyu.edu/) 
-on distributed low-latency networking on the cloud ([Onyx](https://dl.acm.org/doi/abs/10.1145/3718958.3750530)). Please, feel free to browse through my repositories or reach out to me directly.
+on distributed low-latency networking on the cloud ([Onyx](https://dl.acm.org/doi/abs/10.1145/3718958.3750530)).
+
+Please, feel free to browse through my repositories or reach out to me directly.
 
 --- 
 
