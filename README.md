@@ -1,8 +1,6 @@
 ## Daniel Duclos-Cavalcanti
 
-Welcome.
-
-I'm an electrical and computer engineer living in New York, currently working as a SWE @Ripple building blockchain custody infrastructure in Rust.
+Electrical and computer engineer living in New York, currently working as a SWE @Ripple building blockchain custody in Rust.
 
 Please, feel free to browse through my repositories or reach out to me directly.
 
